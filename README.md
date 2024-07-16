@@ -19,7 +19,7 @@ Softwares:
 
 ## Diagrama (Casos de Uso)
 
-![Diagrama](./)
+![Diagrama](./Diagrama_Vinera.png)
 
 # Mockup
 
