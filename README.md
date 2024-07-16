@@ -1,3 +1,5 @@
+![Header](./Header.png)
+
 # Vinera
 
 ### Descrição:
@@ -145,6 +147,7 @@ Softwares:
 
 - Requisitos funcionais: menu principal, musica, estação anterior, proxima estação
 
+![Footer](./Footer.png)
 
 
 
